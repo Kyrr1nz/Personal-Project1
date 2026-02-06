@@ -1,14 +1,16 @@
 nav {
   display: flex;
-  justify-content: center; /* căn giữa */
+  justify-content: center; 
 }
 
 nav ul {
-  display: flex;        /* dàn ngang */
-  list-style: none;     /* bỏ dấu chấm */
-  gap: 50px;            /* khoảng cách */
+  display: flex;
+  list-style: none;
   padding: 0;
   margin: 0;
+  width: 50%;
+  /* gap: 30px; */
+  justify-content: space-between; /* giãn theo khung */
 }
 
 nav ul li a {
@@ -22,7 +24,10 @@ nav ul li a {
 
 }
 
-#Gioithieu{
+#Gioithieu p {
   text-align: center;
-  color: aqua;
 }
+#contact {
+  text-align: center;
+}
+
