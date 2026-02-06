@@ -16,10 +16,13 @@ nav ul li a {
   color: black;
   font-weight: 500;
 }
+ h1 {
+   display: flex;
+  justify-content: center;
 
-hello{
-    display: flex;
-    justify-content: center;
-    
-    color: rgb(rgb(237, 85, 85), rgb(43, 218, 43), blue);
+}
+
+#Gioithieu{
+  text-align: center;
+  color: aqua;
 }
