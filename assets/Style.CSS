@@ -35,3 +35,9 @@ nav ul li a {
 #inf{
   text-align: center;
 }
+
+#moreinf{
+  text-align: center;
+  padding: 10px;
+  margin: 20px;
+}
